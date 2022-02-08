@@ -68,4 +68,21 @@ h1 {
 
 
 
+.alert {
+    background-color: rgb(44, 44, 70);
+    color: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+
+
+.card-header {
+    background-color: rgb(44, 44, 70);
+    color: #fff;
+   
+   
+}
+
+
 
